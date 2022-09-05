@@ -1,0 +1,10 @@
+export { default as blackBeans} from "./about_our_beans-black-line.png";
+export { default as aboutGirl} from "./about_our_beans-girl.png"
+export { default as aboutBeans} from "./about_us_lines-beans-black.png"
+export { default as footerBeans} from "./footer-beans.png"
+export { default as headerBeans} from "./header-beans.png"
+export { default as mainBackground} from "./HeaderMain.png"
+export { default as ourCoffeBackground} from "./our_coffee-background.png"
+export { default as ourBest} from "./OurBest.png"
+export { default as aboutOurBest} from "./ourbest1.png"
+export { default as whiteBeans} from "./title_white_lines-beans.png"
